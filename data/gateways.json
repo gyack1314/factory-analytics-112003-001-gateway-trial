@@ -1,0 +1,42 @@
+[
+  {
+    "gateway": "G0",
+    "adjacent": "G1",
+    "crew_area": "E"
+  },
+  {
+    "gateway": "G1",
+    "adjacent": "G2",
+    "crew_area": "E"
+  },
+  {
+    "gateway": "G2",
+    "adjacent": "G3",
+    "crew_area": "E"
+  },
+  {
+    "gateway": "G3",
+    "adjacent": "G4",
+    "crew_area": "E"
+  },
+  {
+    "gateway": "G4",
+    "adjacent": "G5",
+    "crew_area": "W"
+  },
+  {
+    "gateway": "G5",
+    "adjacent": "G6",
+    "crew_area": "W"
+  },
+  {
+    "gateway": "G6",
+    "adjacent": "G7",
+    "crew_area": "W"
+  },
+  {
+    "gateway": "G7",
+    "adjacent": "G0",
+    "crew_area": "W"
+  }
+]

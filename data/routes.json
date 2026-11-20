@@ -1,0 +1,2306 @@
+[
+  {
+    "ticket": "L00-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 159,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 793,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 96,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1130,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 228,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 732,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 292,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1139,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 333,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 793,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 290,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 915,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 44,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1108,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L21-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 42,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L21-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 939,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L22-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 338,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L22-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1151,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 107,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1157,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 66,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 836,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 314,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 846,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 313,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1148,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L41-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 284,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L41-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 739,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 168,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1061,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L50-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 19,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L50-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1089,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L51-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 275,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L51-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1044,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L52-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 158,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L52-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1008,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 234,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 968,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L61-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 223,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L61-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1137,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 372,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 800,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 179,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 785,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 338,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 971,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-0-白班",
+    "used_gateway": null,
+    "confirmed_min": 440,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-0-夜班",
+    "used_gateway": null,
+    "confirmed_min": 1157,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10535,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10936,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10504,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10991,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10101,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 11015,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10379,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10916,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10277,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-1-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 11020,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10322,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 11172,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-1-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 10453,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L20-1-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 11103,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-1-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 10172,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-1-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 11271,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10142,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L22-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10887,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10174,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 11114,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10493,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10910,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10190,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10844,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10199,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 11074,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L41-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10522,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L41-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10814,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10514,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 11066,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L50-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10427,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L50-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10797,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L51-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10115,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L51-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 11059,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L52-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10354,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L52-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10891,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10302,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10794,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L61-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10427,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L61-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10983,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10111,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10835,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10268,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10981,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10085,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 11011,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-1-白班",
+    "used_gateway": null,
+    "confirmed_min": 10405,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-1-夜班",
+    "used_gateway": null,
+    "confirmed_min": 10949,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20538,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21056,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20239,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21104,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20503,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21277,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20347,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21347,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20496,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-2-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 21180,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20289,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21244,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-2-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 20528,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L20-2-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 21279,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-2-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 20318,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-2-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 21224,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20361,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L22-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21234,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20604,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 20993,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20474,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21204,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20461,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21171,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20528,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21188,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L41-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20282,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L41-2-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 21078,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20296,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21146,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L50-2-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 20171,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L50-2-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 20933,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-2-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 20361,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-2-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 21115,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L52-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20334,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L52-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21313,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20438,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21352,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L61-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20531,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L61-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21163,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20195,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21310,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20579,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 20991,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20454,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21052,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-2-白班",
+    "used_gateway": null,
+    "confirmed_min": 20436,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-2-夜班",
+    "used_gateway": null,
+    "confirmed_min": 21095,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30398,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31404,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30620,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31378,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30339,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31053,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30431,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31170,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30326,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-3-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 30999,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30505,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31350,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-3-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 30423,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L20-3-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 31199,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-3-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 30674,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-3-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 31333,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30627,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L22-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31079,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30301,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31144,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30575,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-3-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 31266,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30373,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31226,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-3-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 30282,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L40-3-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 31022,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-3-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 30308,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-3-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 31427,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L42-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30582,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31343,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L50-3-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 30676,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L50-3-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 31244,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-3-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 30680,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-3-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 31087,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L52-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30252,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L52-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31378,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30310,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31183,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L61-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30332,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L61-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31138,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30541,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31355,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30272,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31379,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30672,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31218,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-3-白班",
+    "used_gateway": null,
+    "confirmed_min": 30402,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-3-夜班",
+    "used_gateway": null,
+    "confirmed_min": 31430,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40679,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41323,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40448,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41244,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40478,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41427,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40788,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41419,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40331,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-4-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 41184,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40509,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41042,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-4-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 40609,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L20-4-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 41194,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-4-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 40576,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-4-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 41406,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40569,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L22-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41071,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40715,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41117,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40446,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L31-4-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 41365,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40660,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41414,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-4-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 40678,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L40-4-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 41329,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-4-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 40369,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-4-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 41388,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L42-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40512,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41433,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L50-4-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 40370,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L50-4-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 41103,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-4-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 40383,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-4-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 41262,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L52-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40428,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L52-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41148,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-4-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 40365,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L60-4-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 41409,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L61-4-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 40734,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L61-4-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 41118,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L62-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40566,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41423,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40681,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41252,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40786,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41284,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-4-白班",
+    "used_gateway": null,
+    "confirmed_min": 40667,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-4-夜班",
+    "used_gateway": null,
+    "confirmed_min": 41200,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50719,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51574,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50404,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L01-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51445,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50617,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L02-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51229,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50836,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51457,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50458,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-5-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 51495,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50692,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51453,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-5-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 50751,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L20-5-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 51146,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-5-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 50627,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-5-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 51512,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50773,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L22-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51486,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L30-5-白班",
+    "used_gateway": "G3",
+    "confirmed_min": 50796,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L30-5-夜班",
+    "used_gateway": "G3",
+    "confirmed_min": 51128,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L31-5-白班",
+    "used_gateway": "G3",
+    "confirmed_min": 50559,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L31-5-夜班",
+    "used_gateway": "G3",
+    "confirmed_min": 51305,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L32-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50456,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L32-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51373,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L40-5-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 50819,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L40-5-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 51232,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-5-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 50534,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-5-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 51521,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L42-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50797,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L42-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51440,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L50-5-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 50519,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L50-5-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 51454,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-5-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 50851,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-5-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 51333,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L52-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50822,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L52-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51327,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L60-5-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 50845,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L60-5-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 51130,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L61-5-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 50454,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L61-5-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 51498,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L62-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50546,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L62-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51357,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50659,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51580,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50701,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51501,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-5-白班",
+    "used_gateway": null,
+    "confirmed_min": 50616,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-5-夜班",
+    "used_gateway": null,
+    "confirmed_min": 51251,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-6-白班",
+    "used_gateway": "G0",
+    "confirmed_min": 60753,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L00-6-夜班",
+    "used_gateway": "G0",
+    "confirmed_min": 61560,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L01-6-白班",
+    "used_gateway": "G0",
+    "confirmed_min": 60721,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L01-6-夜班",
+    "used_gateway": "G0",
+    "confirmed_min": 61544,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L02-6-白班",
+    "used_gateway": "G0",
+    "confirmed_min": 60928,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L02-6-夜班",
+    "used_gateway": "G0",
+    "confirmed_min": 61258,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L10-6-白班",
+    "used_gateway": null,
+    "confirmed_min": 60729,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-6-夜班",
+    "used_gateway": null,
+    "confirmed_min": 61337,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-6-白班",
+    "used_gateway": null,
+    "confirmed_min": 60648,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-6-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 61542,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-6-白班",
+    "used_gateway": null,
+    "confirmed_min": 60942,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-6-夜班",
+    "used_gateway": null,
+    "confirmed_min": 61426,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-6-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 60636,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L20-6-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 61495,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-6-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 60718,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-6-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 61316,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-6-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 60914,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-6-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 61327,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L30-6-白班",
+    "used_gateway": "G3",
+    "confirmed_min": 60806,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L30-6-夜班",
+    "used_gateway": "G3",
+    "confirmed_min": 61272,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L31-6-白班",
+    "used_gateway": "G3",
+    "confirmed_min": 60795,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L31-6-夜班",
+    "used_gateway": "G3",
+    "confirmed_min": 61652,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L32-6-白班",
+    "used_gateway": "G3",
+    "confirmed_min": 60525,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L32-6-夜班",
+    "used_gateway": "G3",
+    "confirmed_min": 61657,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L40-6-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 60724,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L40-6-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 61669,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-6-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 60870,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-6-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 61558,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L42-6-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 60696,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L42-6-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 61581,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L50-6-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 60551,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L50-6-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 61259,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-6-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 60809,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-6-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 61655,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L52-6-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 60688,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L52-6-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 61353,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L60-6-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 60615,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L60-6-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 61244,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L61-6-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 60630,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L61-6-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 61519,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L62-6-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 60853,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L62-6-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 61314,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L70-6-白班",
+    "used_gateway": null,
+    "confirmed_min": 60706,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-6-夜班",
+    "used_gateway": null,
+    "confirmed_min": 61313,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-6-白班",
+    "used_gateway": null,
+    "confirmed_min": 60620,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-6-夜班",
+    "used_gateway": "G0",
+    "confirmed_min": 61631,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-6-白班",
+    "used_gateway": null,
+    "confirmed_min": 60750,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-6-夜班",
+    "used_gateway": null,
+    "confirmed_min": 61196,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L00-7-白班",
+    "used_gateway": "G0",
+    "confirmed_min": 70840,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L00-7-夜班",
+    "used_gateway": "G0",
+    "confirmed_min": 71453,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L01-7-白班",
+    "used_gateway": "G0",
+    "confirmed_min": 70868,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L01-7-夜班",
+    "used_gateway": "G0",
+    "confirmed_min": 71363,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L02-7-白班",
+    "used_gateway": "G0",
+    "confirmed_min": 70865,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L02-7-夜班",
+    "used_gateway": "G0",
+    "confirmed_min": 71456,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L10-7-白班",
+    "used_gateway": null,
+    "confirmed_min": 70769,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L10-7-夜班",
+    "used_gateway": null,
+    "confirmed_min": 71417,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-7-白班",
+    "used_gateway": null,
+    "confirmed_min": 70956,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L11-7-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 71395,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-7-白班",
+    "used_gateway": null,
+    "confirmed_min": 70877,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L12-7-夜班",
+    "used_gateway": null,
+    "confirmed_min": 71465,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L20-7-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 70591,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L20-7-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 71486,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-7-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 70879,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L21-7-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 71328,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-7-白班",
+    "used_gateway": "G2",
+    "confirmed_min": 70647,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L22-7-夜班",
+    "used_gateway": "G2",
+    "confirmed_min": 71445,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L30-7-白班",
+    "used_gateway": "G3",
+    "confirmed_min": 70571,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L30-7-夜班",
+    "used_gateway": "G3",
+    "confirmed_min": 71338,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L31-7-白班",
+    "used_gateway": "G3",
+    "confirmed_min": 70621,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L31-7-夜班",
+    "used_gateway": "G3",
+    "confirmed_min": 71448,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L32-7-白班",
+    "used_gateway": "G3",
+    "confirmed_min": 70914,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L32-7-夜班",
+    "used_gateway": "G3",
+    "confirmed_min": 71726,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L40-7-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 70629,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L40-7-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 71507,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-7-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 71007,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L41-7-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 71301,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L42-7-白班",
+    "used_gateway": "G4",
+    "confirmed_min": 70592,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L42-7-夜班",
+    "used_gateway": "G4",
+    "confirmed_min": 71498,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L50-7-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 70773,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L50-7-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 71752,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-7-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 70586,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L51-7-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 71710,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L52-7-白班",
+    "used_gateway": "G5",
+    "confirmed_min": 70605,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L52-7-夜班",
+    "used_gateway": "G5",
+    "confirmed_min": 71301,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L60-7-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 70562,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L60-7-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 71560,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L61-7-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 70614,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L61-7-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 71274,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L62-7-白班",
+    "used_gateway": "G6",
+    "confirmed_min": 70953,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L62-7-夜班",
+    "used_gateway": "G6",
+    "confirmed_min": 71329,
+    "evidence": "接入回执"
+  },
+  {
+    "ticket": "L70-7-白班",
+    "used_gateway": null,
+    "confirmed_min": 70684,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L70-7-夜班",
+    "used_gateway": null,
+    "confirmed_min": 71447,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-7-白班",
+    "used_gateway": null,
+    "confirmed_min": 70738,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L71-7-夜班",
+    "used_gateway": "G0",
+    "confirmed_min": 71520,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-7-白班",
+    "used_gateway": null,
+    "confirmed_min": 70867,
+    "evidence": "值班本确认"
+  },
+  {
+    "ticket": "L72-7-夜班",
+    "used_gateway": null,
+    "confirmed_min": 71515,
+    "evidence": "值班本确认"
+  }
+]

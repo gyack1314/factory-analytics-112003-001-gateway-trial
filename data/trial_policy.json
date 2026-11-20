@@ -1,0 +1,12 @@
+{
+  "as_of_min": [
+    81000,
+    81730,
+    81900
+  ],
+  "min_recovery_delta_min": 8,
+  "max_extra_safety_rate": 0.025,
+  "confidence": 0.95,
+  "assignment_unit": "网关",
+  "week_minutes": 10080
+}

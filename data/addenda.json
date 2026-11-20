@@ -1,0 +1,18 @@
+[
+  {
+    "id": "U1",
+    "received_min": 81710,
+    "ticket": "L11-0-白班",
+    "finish_min": 464,
+    "duplicate_of": null,
+    "kind": "补结案"
+  },
+  {
+    "id": "U2",
+    "received_min": 81720,
+    "ticket": "DUP-1",
+    "finish_min": null,
+    "duplicate_of": "L11-0-白班",
+    "kind": "确认同源"
+  }
+]

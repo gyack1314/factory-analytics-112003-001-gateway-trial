@@ -1,0 +1,26 @@
+[
+  {
+    "slot": "S1",
+    "week": 9,
+    "crew_area": "E",
+    "capacity": 2
+  },
+  {
+    "slot": "S2",
+    "week": 9,
+    "crew_area": "W",
+    "capacity": 2
+  },
+  {
+    "slot": "S3",
+    "week": 10,
+    "crew_area": "E",
+    "capacity": 3
+  },
+  {
+    "slot": "S4",
+    "week": 10,
+    "crew_area": "W",
+    "capacity": 3
+  }
+]

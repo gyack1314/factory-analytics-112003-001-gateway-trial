@@ -1,0 +1,96 @@
+{
+  "gateways": {
+    "records": 8,
+    "fields": [
+      "gateway",
+      "adjacent",
+      "crew_area"
+    ]
+  },
+  "lines": {
+    "records": 24,
+    "fields": [
+      "line",
+      "primary",
+      "backup",
+      "product",
+      "initially_ready"
+    ]
+  },
+  "lottery": {
+    "records": 43,
+    "fields": [
+      "week",
+      "gateway",
+      "weight",
+      "chosen",
+      "exclusion",
+      "eligible_weight_total"
+    ]
+  },
+  "routes": {
+    "records": 384,
+    "fields": [
+      "ticket",
+      "used_gateway",
+      "confirmed_min",
+      "evidence"
+    ]
+  },
+  "repairs": {
+    "records": 385,
+    "fields": [
+      "ticket",
+      "line",
+      "start_min",
+      "finish_min",
+      "arrived_min",
+      "duplicate_of",
+      "safety_stop",
+      "start_shift"
+    ]
+  },
+  "addenda": {
+    "records": 2,
+    "fields": [
+      "id",
+      "received_min",
+      "ticket",
+      "finish_min",
+      "duplicate_of",
+      "kind"
+    ]
+  },
+  "install_slots": {
+    "records": 4,
+    "fields": [
+      "slot",
+      "week",
+      "crew_area",
+      "capacity"
+    ]
+  },
+  "installation_events": {
+    "records": 3,
+    "fields": [
+      "id",
+      "at_min",
+      "slot",
+      "gateway",
+      "units",
+      "action",
+      "reference"
+    ]
+  },
+  "trial_policy": {
+    "records": 1,
+    "fields": [
+      "as_of_min",
+      "min_recovery_delta_min",
+      "max_extra_safety_rate",
+      "confidence",
+      "assignment_unit",
+      "week_minutes"
+    ]
+  }
+}

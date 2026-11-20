@@ -1,0 +1,346 @@
+[
+  {
+    "week": 0,
+    "gateway": "G0",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 15
+  },
+  {
+    "week": 0,
+    "gateway": "G1",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 15
+  },
+  {
+    "week": 0,
+    "gateway": "G2",
+    "weight": 3,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 15
+  },
+  {
+    "week": 0,
+    "gateway": "G3",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 15
+  },
+  {
+    "week": 0,
+    "gateway": "G4",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 15
+  },
+  {
+    "week": 0,
+    "gateway": "G5",
+    "weight": 3,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 15
+  },
+  {
+    "week": 0,
+    "gateway": "G6",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 15
+  },
+  {
+    "week": 0,
+    "gateway": "G7",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 15
+  },
+  {
+    "week": 1,
+    "gateway": "G0",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 14
+  },
+  {
+    "week": 1,
+    "gateway": "G1",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 14
+  },
+  {
+    "week": 1,
+    "gateway": "G2",
+    "weight": 3,
+    "chosen": true,
+    "exclusion": "",
+    "eligible_weight_total": 14
+  },
+  {
+    "week": 1,
+    "gateway": "G3",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 14
+  },
+  {
+    "week": 1,
+    "gateway": "G4",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 14
+  },
+  {
+    "week": 1,
+    "gateway": "G5",
+    "weight": 3,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 14
+  },
+  {
+    "week": 1,
+    "gateway": "G7",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 14
+  },
+  {
+    "week": 1,
+    "gateway": "G6",
+    "weight": 0,
+    "chosen": false,
+    "exclusion": "厂方尚未签收机柜",
+    "eligible_weight_total": 14
+  },
+  {
+    "week": 2,
+    "gateway": "G0",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 12
+  },
+  {
+    "week": 2,
+    "gateway": "G1",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 12
+  },
+  {
+    "week": 2,
+    "gateway": "G3",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 12
+  },
+  {
+    "week": 2,
+    "gateway": "G4",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 12
+  },
+  {
+    "week": 2,
+    "gateway": "G5",
+    "weight": 3,
+    "chosen": true,
+    "exclusion": "",
+    "eligible_weight_total": 12
+  },
+  {
+    "week": 2,
+    "gateway": "G6",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 12
+  },
+  {
+    "week": 2,
+    "gateway": "G7",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 12
+  },
+  {
+    "week": 3,
+    "gateway": "G0",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 9
+  },
+  {
+    "week": 3,
+    "gateway": "G1",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 9
+  },
+  {
+    "week": 3,
+    "gateway": "G3",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 9
+  },
+  {
+    "week": 3,
+    "gateway": "G4",
+    "weight": 2,
+    "chosen": true,
+    "exclusion": "",
+    "eligible_weight_total": 9
+  },
+  {
+    "week": 3,
+    "gateway": "G6",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 9
+  },
+  {
+    "week": 3,
+    "gateway": "G7",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 9
+  },
+  {
+    "week": 4,
+    "gateway": "G0",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 7
+  },
+  {
+    "week": 4,
+    "gateway": "G1",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 7
+  },
+  {
+    "week": 4,
+    "gateway": "G3",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 7
+  },
+  {
+    "week": 4,
+    "gateway": "G6",
+    "weight": 1,
+    "chosen": true,
+    "exclusion": "",
+    "eligible_weight_total": 7
+  },
+  {
+    "week": 4,
+    "gateway": "G7",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 7
+  },
+  {
+    "week": 5,
+    "gateway": "G0",
+    "weight": 1,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 6
+  },
+  {
+    "week": 5,
+    "gateway": "G1",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 6
+  },
+  {
+    "week": 5,
+    "gateway": "G3",
+    "weight": 1,
+    "chosen": true,
+    "exclusion": "",
+    "eligible_weight_total": 6
+  },
+  {
+    "week": 5,
+    "gateway": "G7",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 6
+  },
+  {
+    "week": 6,
+    "gateway": "G0",
+    "weight": 1,
+    "chosen": true,
+    "exclusion": "",
+    "eligible_weight_total": 5
+  },
+  {
+    "week": 6,
+    "gateway": "G1",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 5
+  },
+  {
+    "week": 6,
+    "gateway": "G7",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 5
+  },
+  {
+    "week": 7,
+    "gateway": "G1",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 4
+  },
+  {
+    "week": 7,
+    "gateway": "G7",
+    "weight": 2,
+    "chosen": false,
+    "exclusion": "",
+    "eligible_weight_total": 4
+  }
+]

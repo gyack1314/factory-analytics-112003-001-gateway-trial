@@ -1,0 +1,170 @@
+[
+  {
+    "line": "L00",
+    "primary": "G0",
+    "backup": null,
+    "product": "机加工",
+    "initially_ready": true
+  },
+  {
+    "line": "L01",
+    "primary": "G0",
+    "backup": "G1",
+    "product": "机加工",
+    "initially_ready": true
+  },
+  {
+    "line": "L02",
+    "primary": "G0",
+    "backup": null,
+    "product": "机加工",
+    "initially_ready": false
+  },
+  {
+    "line": "L10",
+    "primary": "G1",
+    "backup": null,
+    "product": "冲压",
+    "initially_ready": true
+  },
+  {
+    "line": "L11",
+    "primary": "G1",
+    "backup": "G2",
+    "product": "冲压",
+    "initially_ready": true
+  },
+  {
+    "line": "L12",
+    "primary": "G1",
+    "backup": null,
+    "product": "冲压",
+    "initially_ready": false
+  },
+  {
+    "line": "L20",
+    "primary": "G2",
+    "backup": null,
+    "product": "装配",
+    "initially_ready": true
+  },
+  {
+    "line": "L21",
+    "primary": "G2",
+    "backup": "G3",
+    "product": "装配",
+    "initially_ready": true
+  },
+  {
+    "line": "L22",
+    "primary": "G2",
+    "backup": null,
+    "product": "装配",
+    "initially_ready": false
+  },
+  {
+    "line": "L30",
+    "primary": "G3",
+    "backup": null,
+    "product": "机加工",
+    "initially_ready": true
+  },
+  {
+    "line": "L31",
+    "primary": "G3",
+    "backup": "G4",
+    "product": "机加工",
+    "initially_ready": true
+  },
+  {
+    "line": "L32",
+    "primary": "G3",
+    "backup": null,
+    "product": "机加工",
+    "initially_ready": false
+  },
+  {
+    "line": "L40",
+    "primary": "G4",
+    "backup": null,
+    "product": "冲压",
+    "initially_ready": true
+  },
+  {
+    "line": "L41",
+    "primary": "G4",
+    "backup": "G5",
+    "product": "冲压",
+    "initially_ready": true
+  },
+  {
+    "line": "L42",
+    "primary": "G4",
+    "backup": null,
+    "product": "冲压",
+    "initially_ready": false
+  },
+  {
+    "line": "L50",
+    "primary": "G5",
+    "backup": null,
+    "product": "装配",
+    "initially_ready": true
+  },
+  {
+    "line": "L51",
+    "primary": "G5",
+    "backup": "G6",
+    "product": "装配",
+    "initially_ready": true
+  },
+  {
+    "line": "L52",
+    "primary": "G5",
+    "backup": null,
+    "product": "装配",
+    "initially_ready": false
+  },
+  {
+    "line": "L60",
+    "primary": "G6",
+    "backup": null,
+    "product": "机加工",
+    "initially_ready": true
+  },
+  {
+    "line": "L61",
+    "primary": "G6",
+    "backup": "G7",
+    "product": "机加工",
+    "initially_ready": true
+  },
+  {
+    "line": "L62",
+    "primary": "G6",
+    "backup": null,
+    "product": "机加工",
+    "initially_ready": false
+  },
+  {
+    "line": "L70",
+    "primary": "G7",
+    "backup": null,
+    "product": "冲压",
+    "initially_ready": true
+  },
+  {
+    "line": "L71",
+    "primary": "G7",
+    "backup": "G0",
+    "product": "冲压",
+    "initially_ready": true
+  },
+  {
+    "line": "L72",
+    "primary": "G7",
+    "backup": null,
+    "product": "冲压",
+    "initially_ready": false
+  }
+]

@@ -1,0 +1,3852 @@
+[
+  {
+    "ticket": "L00-0-白班",
+    "line": "L00",
+    "start_min": 165,
+    "finish_min": 192,
+    "arrived_min": 210,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L00-0-夜班",
+    "line": "L00",
+    "start_min": 799,
+    "finish_min": 875,
+    "arrived_min": 893,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L01-0-白班",
+    "line": "L01",
+    "start_min": 102,
+    "finish_min": 176,
+    "arrived_min": 194,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L01-0-夜班",
+    "line": "L01",
+    "start_min": 1136,
+    "finish_min": 1254,
+    "arrived_min": 1272,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L02-0-白班",
+    "line": "L02",
+    "start_min": 234,
+    "finish_min": 348,
+    "arrived_min": 366,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L02-0-夜班",
+    "line": "L02",
+    "start_min": 738,
+    "finish_min": 770,
+    "arrived_min": 788,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L10-0-白班",
+    "line": "L10",
+    "start_min": 298,
+    "finish_min": 361,
+    "arrived_min": 379,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L10-0-夜班",
+    "line": "L10",
+    "start_min": 1145,
+    "finish_min": 1194,
+    "arrived_min": 1212,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L11-0-白班",
+    "line": "L11",
+    "start_min": 339,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L11-0-夜班",
+    "line": "L11",
+    "start_min": 799,
+    "finish_min": 955,
+    "arrived_min": 973,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L12-0-白班",
+    "line": "L12",
+    "start_min": 296,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L12-0-夜班",
+    "line": "L12",
+    "start_min": 921,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L20-0-白班",
+    "line": "L20",
+    "start_min": 50,
+    "finish_min": 181,
+    "arrived_min": 199,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L20-0-夜班",
+    "line": "L20",
+    "start_min": 1114,
+    "finish_min": 1230,
+    "arrived_min": 1248,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L21-0-白班",
+    "line": "L21",
+    "start_min": 48,
+    "finish_min": 128,
+    "arrived_min": 146,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L21-0-夜班",
+    "line": "L21",
+    "start_min": 945,
+    "finish_min": 1052,
+    "arrived_min": 1070,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L22-0-白班",
+    "line": "L22",
+    "start_min": 344,
+    "finish_min": 435,
+    "arrived_min": 453,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L22-0-夜班",
+    "line": "L22",
+    "start_min": 1157,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L30-0-白班",
+    "line": "L30",
+    "start_min": 113,
+    "finish_min": 267,
+    "arrived_min": 285,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L30-0-夜班",
+    "line": "L30",
+    "start_min": 1163,
+    "finish_min": 1250,
+    "arrived_min": 1268,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L31-0-白班",
+    "line": "L31",
+    "start_min": 72,
+    "finish_min": 224,
+    "arrived_min": 242,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L31-0-夜班",
+    "line": "L31",
+    "start_min": 842,
+    "finish_min": 890,
+    "arrived_min": 908,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L32-0-白班",
+    "line": "L32",
+    "start_min": 320,
+    "finish_min": 464,
+    "arrived_min": 482,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L32-0-夜班",
+    "line": "L32",
+    "start_min": 852,
+    "finish_min": 1013,
+    "arrived_min": 1031,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L40-0-白班",
+    "line": "L40",
+    "start_min": 319,
+    "finish_min": 470,
+    "arrived_min": 488,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L40-0-夜班",
+    "line": "L40",
+    "start_min": 1154,
+    "finish_min": 1295,
+    "arrived_min": 1313,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L41-0-白班",
+    "line": "L41",
+    "start_min": 290,
+    "finish_min": 389,
+    "arrived_min": 407,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L41-0-夜班",
+    "line": "L41",
+    "start_min": 745,
+    "finish_min": 786,
+    "arrived_min": 804,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L42-0-白班",
+    "line": "L42",
+    "start_min": 174,
+    "finish_min": 237,
+    "arrived_min": 255,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L42-0-夜班",
+    "line": "L42",
+    "start_min": 1067,
+    "finish_min": 1180,
+    "arrived_min": 1198,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L50-0-白班",
+    "line": "L50",
+    "start_min": 25,
+    "finish_min": 76,
+    "arrived_min": 94,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L50-0-夜班",
+    "line": "L50",
+    "start_min": 1095,
+    "finish_min": 1198,
+    "arrived_min": 1216,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L51-0-白班",
+    "line": "L51",
+    "start_min": 281,
+    "finish_min": 385,
+    "arrived_min": 403,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L51-0-夜班",
+    "line": "L51",
+    "start_min": 1050,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L52-0-白班",
+    "line": "L52",
+    "start_min": 164,
+    "finish_min": 253,
+    "arrived_min": 271,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L52-0-夜班",
+    "line": "L52",
+    "start_min": 1014,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L60-0-白班",
+    "line": "L60",
+    "start_min": 240,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L60-0-夜班",
+    "line": "L60",
+    "start_min": 974,
+    "finish_min": 1110,
+    "arrived_min": 1128,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L61-0-白班",
+    "line": "L61",
+    "start_min": 229,
+    "finish_min": 369,
+    "arrived_min": 387,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L61-0-夜班",
+    "line": "L61",
+    "start_min": 1143,
+    "finish_min": 1187,
+    "arrived_min": 1205,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L62-0-白班",
+    "line": "L62",
+    "start_min": 378,
+    "finish_min": 440,
+    "arrived_min": 458,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L62-0-夜班",
+    "line": "L62",
+    "start_min": 806,
+    "finish_min": 947,
+    "arrived_min": 965,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L70-0-白班",
+    "line": "L70",
+    "start_min": 185,
+    "finish_min": 333,
+    "arrived_min": 351,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L70-0-夜班",
+    "line": "L70",
+    "start_min": 791,
+    "finish_min": 855,
+    "arrived_min": 873,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L71-0-白班",
+    "line": "L71",
+    "start_min": 344,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L71-0-夜班",
+    "line": "L71",
+    "start_min": 977,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L72-0-白班",
+    "line": "L72",
+    "start_min": 446,
+    "finish_min": 540,
+    "arrived_min": 558,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L72-0-夜班",
+    "line": "L72",
+    "start_min": 1163,
+    "finish_min": 1255,
+    "arrived_min": 1273,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L00-1-白班",
+    "line": "L00",
+    "start_min": 10541,
+    "finish_min": 10631,
+    "arrived_min": 10649,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L00-1-夜班",
+    "line": "L00",
+    "start_min": 10942,
+    "finish_min": 11104,
+    "arrived_min": 11122,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L01-1-白班",
+    "line": "L01",
+    "start_min": 10510,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L01-1-夜班",
+    "line": "L01",
+    "start_min": 10997,
+    "finish_min": 11097,
+    "arrived_min": 11115,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L02-1-白班",
+    "line": "L02",
+    "start_min": 10107,
+    "finish_min": 10190,
+    "arrived_min": 10208,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L02-1-夜班",
+    "line": "L02",
+    "start_min": 11021,
+    "finish_min": 11098,
+    "arrived_min": 11116,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L10-1-白班",
+    "line": "L10",
+    "start_min": 10385,
+    "finish_min": 10427,
+    "arrived_min": 10445,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L10-1-夜班",
+    "line": "L10",
+    "start_min": 10922,
+    "finish_min": 11001,
+    "arrived_min": 11019,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L11-1-白班",
+    "line": "L11",
+    "start_min": 10283,
+    "finish_min": 10336,
+    "arrived_min": 10354,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L11-1-夜班",
+    "line": "L11",
+    "start_min": 11026,
+    "finish_min": 11177,
+    "arrived_min": 11195,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L12-1-白班",
+    "line": "L12",
+    "start_min": 10328,
+    "finish_min": 10495,
+    "arrived_min": 10513,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L12-1-夜班",
+    "line": "L12",
+    "start_min": 11178,
+    "finish_min": 11267,
+    "arrived_min": 11285,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L20-1-白班",
+    "line": "L20",
+    "start_min": 10459,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L20-1-夜班",
+    "line": "L20",
+    "start_min": 11109,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L21-1-白班",
+    "line": "L21",
+    "start_min": 10178,
+    "finish_min": 10251,
+    "arrived_min": 10269,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L21-1-夜班",
+    "line": "L21",
+    "start_min": 11277,
+    "finish_min": 11312,
+    "arrived_min": 11330,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L22-1-白班",
+    "line": "L22",
+    "start_min": 10148,
+    "finish_min": 10308,
+    "arrived_min": 10326,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L22-1-夜班",
+    "line": "L22",
+    "start_min": 10893,
+    "finish_min": 10974,
+    "arrived_min": 10992,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L30-1-白班",
+    "line": "L30",
+    "start_min": 10180,
+    "finish_min": 10294,
+    "arrived_min": 10312,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L30-1-夜班",
+    "line": "L30",
+    "start_min": 11120,
+    "finish_min": 11192,
+    "arrived_min": 11210,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L31-1-白班",
+    "line": "L31",
+    "start_min": 10499,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L31-1-夜班",
+    "line": "L31",
+    "start_min": 10916,
+    "finish_min": 11011,
+    "arrived_min": 11029,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L32-1-白班",
+    "line": "L32",
+    "start_min": 10196,
+    "finish_min": 10343,
+    "arrived_min": 10361,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L32-1-夜班",
+    "line": "L32",
+    "start_min": 10850,
+    "finish_min": 10926,
+    "arrived_min": 10944,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L40-1-白班",
+    "line": "L40",
+    "start_min": 10205,
+    "finish_min": 10304,
+    "arrived_min": 10322,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L40-1-夜班",
+    "line": "L40",
+    "start_min": 11080,
+    "finish_min": 11213,
+    "arrived_min": 11231,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L41-1-白班",
+    "line": "L41",
+    "start_min": 10528,
+    "finish_min": 10678,
+    "arrived_min": 10696,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L41-1-夜班",
+    "line": "L41",
+    "start_min": 10820,
+    "finish_min": 10887,
+    "arrived_min": 10905,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L42-1-白班",
+    "line": "L42",
+    "start_min": 10520,
+    "finish_min": 10631,
+    "arrived_min": 10649,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L42-1-夜班",
+    "line": "L42",
+    "start_min": 11072,
+    "finish_min": 11140,
+    "arrived_min": 11158,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L50-1-白班",
+    "line": "L50",
+    "start_min": 10433,
+    "finish_min": 10467,
+    "arrived_min": 10485,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L50-1-夜班",
+    "line": "L50",
+    "start_min": 10803,
+    "finish_min": 10898,
+    "arrived_min": 10916,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L51-1-白班",
+    "line": "L51",
+    "start_min": 10121,
+    "finish_min": 10285,
+    "arrived_min": 10303,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L51-1-夜班",
+    "line": "L51",
+    "start_min": 11065,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L52-1-白班",
+    "line": "L52",
+    "start_min": 10360,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L52-1-夜班",
+    "line": "L52",
+    "start_min": 10897,
+    "finish_min": 10936,
+    "arrived_min": 10954,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L60-1-白班",
+    "line": "L60",
+    "start_min": 10308,
+    "finish_min": 10454,
+    "arrived_min": 10472,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L60-1-夜班",
+    "line": "L60",
+    "start_min": 10800,
+    "finish_min": 10939,
+    "arrived_min": 10957,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L61-1-白班",
+    "line": "L61",
+    "start_min": 10433,
+    "finish_min": 10572,
+    "arrived_min": 10590,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L61-1-夜班",
+    "line": "L61",
+    "start_min": 10989,
+    "finish_min": 11022,
+    "arrived_min": 11040,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L62-1-白班",
+    "line": "L62",
+    "start_min": 10117,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L62-1-夜班",
+    "line": "L62",
+    "start_min": 10841,
+    "finish_min": 10917,
+    "arrived_min": 10935,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L70-1-白班",
+    "line": "L70",
+    "start_min": 10274,
+    "finish_min": 10338,
+    "arrived_min": 10356,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L70-1-夜班",
+    "line": "L70",
+    "start_min": 10987,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L71-1-白班",
+    "line": "L71",
+    "start_min": 10091,
+    "finish_min": 10152,
+    "arrived_min": 10170,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L71-1-夜班",
+    "line": "L71",
+    "start_min": 11017,
+    "finish_min": 11105,
+    "arrived_min": 11123,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L72-1-白班",
+    "line": "L72",
+    "start_min": 10411,
+    "finish_min": 10457,
+    "arrived_min": 10475,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L72-1-夜班",
+    "line": "L72",
+    "start_min": 10955,
+    "finish_min": 11032,
+    "arrived_min": 11050,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L00-2-白班",
+    "line": "L00",
+    "start_min": 20544,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L00-2-夜班",
+    "line": "L00",
+    "start_min": 21062,
+    "finish_min": 21220,
+    "arrived_min": 21238,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L01-2-白班",
+    "line": "L01",
+    "start_min": 20245,
+    "finish_min": 20362,
+    "arrived_min": 20380,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L01-2-夜班",
+    "line": "L01",
+    "start_min": 21110,
+    "finish_min": 21216,
+    "arrived_min": 21234,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L02-2-白班",
+    "line": "L02",
+    "start_min": 20509,
+    "finish_min": 20543,
+    "arrived_min": 20561,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L02-2-夜班",
+    "line": "L02",
+    "start_min": 21283,
+    "finish_min": 21321,
+    "arrived_min": 21339,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L10-2-白班",
+    "line": "L10",
+    "start_min": 20353,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L10-2-夜班",
+    "line": "L10",
+    "start_min": 21353,
+    "finish_min": 21397,
+    "arrived_min": 21415,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L11-2-白班",
+    "line": "L11",
+    "start_min": 20502,
+    "finish_min": 20620,
+    "arrived_min": 20638,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L11-2-夜班",
+    "line": "L11",
+    "start_min": 21186,
+    "finish_min": 21286,
+    "arrived_min": 21304,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L12-2-白班",
+    "line": "L12",
+    "start_min": 20295,
+    "finish_min": 20393,
+    "arrived_min": 20411,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L12-2-夜班",
+    "line": "L12",
+    "start_min": 21250,
+    "finish_min": 21371,
+    "arrived_min": 21389,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L20-2-白班",
+    "line": "L20",
+    "start_min": 20534,
+    "finish_min": 20659,
+    "arrived_min": 20677,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L20-2-夜班",
+    "line": "L20",
+    "start_min": 21285,
+    "finish_min": 21374,
+    "arrived_min": 21392,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L21-2-白班",
+    "line": "L21",
+    "start_min": 20324,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L21-2-夜班",
+    "line": "L21",
+    "start_min": 21230,
+    "finish_min": 21347,
+    "arrived_min": 21365,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L22-2-白班",
+    "line": "L22",
+    "start_min": 20367,
+    "finish_min": 20474,
+    "arrived_min": 20492,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L22-2-夜班",
+    "line": "L22",
+    "start_min": 21240,
+    "finish_min": 21322,
+    "arrived_min": 21340,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L30-2-白班",
+    "line": "L30",
+    "start_min": 20610,
+    "finish_min": 20654,
+    "arrived_min": 20672,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L30-2-夜班",
+    "line": "L30",
+    "start_min": 20999,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L31-2-白班",
+    "line": "L31",
+    "start_min": 20480,
+    "finish_min": 20511,
+    "arrived_min": 20529,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L31-2-夜班",
+    "line": "L31",
+    "start_min": 21210,
+    "finish_min": 21339,
+    "arrived_min": 21357,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L32-2-白班",
+    "line": "L32",
+    "start_min": 20467,
+    "finish_min": 20623,
+    "arrived_min": 20641,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L32-2-夜班",
+    "line": "L32",
+    "start_min": 21177,
+    "finish_min": 21219,
+    "arrived_min": 21237,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L40-2-白班",
+    "line": "L40",
+    "start_min": 20534,
+    "finish_min": 20671,
+    "arrived_min": 20689,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L40-2-夜班",
+    "line": "L40",
+    "start_min": 21194,
+    "finish_min": 21336,
+    "arrived_min": 21354,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L41-2-白班",
+    "line": "L41",
+    "start_min": 20288,
+    "finish_min": 20415,
+    "arrived_min": 20433,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L41-2-夜班",
+    "line": "L41",
+    "start_min": 21084,
+    "finish_min": 21182,
+    "arrived_min": 21200,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L42-2-白班",
+    "line": "L42",
+    "start_min": 20302,
+    "finish_min": 20411,
+    "arrived_min": 20429,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L42-2-夜班",
+    "line": "L42",
+    "start_min": 21152,
+    "finish_min": 21284,
+    "arrived_min": 21302,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L50-2-白班",
+    "line": "L50",
+    "start_min": 20177,
+    "finish_min": 20279,
+    "arrived_min": 20297,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L50-2-夜班",
+    "line": "L50",
+    "start_min": 20939,
+    "finish_min": 21054,
+    "arrived_min": 21072,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L51-2-白班",
+    "line": "L51",
+    "start_min": 20367,
+    "finish_min": 20435,
+    "arrived_min": 20453,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L51-2-夜班",
+    "line": "L51",
+    "start_min": 21121,
+    "finish_min": 21207,
+    "arrived_min": 21225,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L52-2-白班",
+    "line": "L52",
+    "start_min": 20340,
+    "finish_min": 20402,
+    "arrived_min": 20420,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L52-2-夜班",
+    "line": "L52",
+    "start_min": 21319,
+    "finish_min": 21479,
+    "arrived_min": 21497,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L60-2-白班",
+    "line": "L60",
+    "start_min": 20444,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L60-2-夜班",
+    "line": "L60",
+    "start_min": 21358,
+    "finish_min": 21483,
+    "arrived_min": 21501,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L61-2-白班",
+    "line": "L61",
+    "start_min": 20537,
+    "finish_min": 20647,
+    "arrived_min": 20665,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L61-2-夜班",
+    "line": "L61",
+    "start_min": 21169,
+    "finish_min": 21217,
+    "arrived_min": 21235,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L62-2-白班",
+    "line": "L62",
+    "start_min": 20201,
+    "finish_min": 20287,
+    "arrived_min": 20305,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L62-2-夜班",
+    "line": "L62",
+    "start_min": 21316,
+    "finish_min": 21380,
+    "arrived_min": 21398,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L70-2-白班",
+    "line": "L70",
+    "start_min": 20585,
+    "finish_min": 20641,
+    "arrived_min": 20659,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L70-2-夜班",
+    "line": "L70",
+    "start_min": 20997,
+    "finish_min": 21027,
+    "arrived_min": 21045,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L71-2-白班",
+    "line": "L71",
+    "start_min": 20460,
+    "finish_min": 20585,
+    "arrived_min": 20603,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L71-2-夜班",
+    "line": "L71",
+    "start_min": 21058,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L72-2-白班",
+    "line": "L72",
+    "start_min": 20442,
+    "finish_min": 20565,
+    "arrived_min": 20583,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L72-2-夜班",
+    "line": "L72",
+    "start_min": 21101,
+    "finish_min": 21221,
+    "arrived_min": 21239,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L00-3-白班",
+    "line": "L00",
+    "start_min": 30404,
+    "finish_min": 30441,
+    "arrived_min": 30459,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L00-3-夜班",
+    "line": "L00",
+    "start_min": 31410,
+    "finish_min": 31463,
+    "arrived_min": 31481,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L01-3-白班",
+    "line": "L01",
+    "start_min": 30626,
+    "finish_min": 30652,
+    "arrived_min": 30670,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L01-3-夜班",
+    "line": "L01",
+    "start_min": 31384,
+    "finish_min": 31508,
+    "arrived_min": 31526,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L02-3-白班",
+    "line": "L02",
+    "start_min": 30345,
+    "finish_min": 30376,
+    "arrived_min": 30394,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L02-3-夜班",
+    "line": "L02",
+    "start_min": 31059,
+    "finish_min": 31154,
+    "arrived_min": 31172,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L10-3-白班",
+    "line": "L10",
+    "start_min": 30437,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L10-3-夜班",
+    "line": "L10",
+    "start_min": 31176,
+    "finish_min": 31226,
+    "arrived_min": 31244,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L11-3-白班",
+    "line": "L11",
+    "start_min": 30332,
+    "finish_min": 30457,
+    "arrived_min": 30475,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L11-3-夜班",
+    "line": "L11",
+    "start_min": 31005,
+    "finish_min": 31158,
+    "arrived_min": 31176,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L12-3-白班",
+    "line": "L12",
+    "start_min": 30511,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L12-3-夜班",
+    "line": "L12",
+    "start_min": 31356,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L20-3-白班",
+    "line": "L20",
+    "start_min": 30429,
+    "finish_min": 30569,
+    "arrived_min": 30587,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L20-3-夜班",
+    "line": "L20",
+    "start_min": 31205,
+    "finish_min": 31333,
+    "arrived_min": 31351,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L21-3-白班",
+    "line": "L21",
+    "start_min": 30680,
+    "finish_min": 30739,
+    "arrived_min": 30757,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L21-3-夜班",
+    "line": "L21",
+    "start_min": 31339,
+    "finish_min": 31478,
+    "arrived_min": 31496,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L22-3-白班",
+    "line": "L22",
+    "start_min": 30633,
+    "finish_min": 30741,
+    "arrived_min": 30759,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L22-3-夜班",
+    "line": "L22",
+    "start_min": 31085,
+    "finish_min": 31230,
+    "arrived_min": 31248,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L30-3-白班",
+    "line": "L30",
+    "start_min": 30307,
+    "finish_min": 30374,
+    "arrived_min": 30392,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L30-3-夜班",
+    "line": "L30",
+    "start_min": 31150,
+    "finish_min": 31271,
+    "arrived_min": 31289,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L31-3-白班",
+    "line": "L31",
+    "start_min": 30581,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L31-3-夜班",
+    "line": "L31",
+    "start_min": 31272,
+    "finish_min": 31399,
+    "arrived_min": 31417,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L32-3-白班",
+    "line": "L32",
+    "start_min": 30379,
+    "finish_min": 30467,
+    "arrived_min": 30485,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L32-3-夜班",
+    "line": "L32",
+    "start_min": 31232,
+    "finish_min": 31266,
+    "arrived_min": 31284,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L40-3-白班",
+    "line": "L40",
+    "start_min": 30288,
+    "finish_min": 30342,
+    "arrived_min": 30360,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L40-3-夜班",
+    "line": "L40",
+    "start_min": 31028,
+    "finish_min": 31051,
+    "arrived_min": 31069,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L41-3-白班",
+    "line": "L41",
+    "start_min": 30314,
+    "finish_min": 30326,
+    "arrived_min": 30344,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L41-3-夜班",
+    "line": "L41",
+    "start_min": 31433,
+    "finish_min": 31470,
+    "arrived_min": 31488,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L42-3-白班",
+    "line": "L42",
+    "start_min": 30588,
+    "finish_min": 30751,
+    "arrived_min": 30769,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L42-3-夜班",
+    "line": "L42",
+    "start_min": 31349,
+    "finish_min": 31475,
+    "arrived_min": 31493,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L50-3-白班",
+    "line": "L50",
+    "start_min": 30682,
+    "finish_min": 30802,
+    "arrived_min": 30820,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L50-3-夜班",
+    "line": "L50",
+    "start_min": 31250,
+    "finish_min": 31291,
+    "arrived_min": 31309,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L51-3-白班",
+    "line": "L51",
+    "start_min": 30686,
+    "finish_min": 30826,
+    "arrived_min": 30844,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L51-3-夜班",
+    "line": "L51",
+    "start_min": 31093,
+    "finish_min": 31194,
+    "arrived_min": 31212,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L52-3-白班",
+    "line": "L52",
+    "start_min": 30258,
+    "finish_min": 30316,
+    "arrived_min": 30334,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L52-3-夜班",
+    "line": "L52",
+    "start_min": 31384,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L60-3-白班",
+    "line": "L60",
+    "start_min": 30316,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L60-3-夜班",
+    "line": "L60",
+    "start_min": 31189,
+    "finish_min": 31284,
+    "arrived_min": 31302,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L61-3-白班",
+    "line": "L61",
+    "start_min": 30338,
+    "finish_min": 30442,
+    "arrived_min": 30460,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L61-3-夜班",
+    "line": "L61",
+    "start_min": 31144,
+    "finish_min": 31212,
+    "arrived_min": 31230,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L62-3-白班",
+    "line": "L62",
+    "start_min": 30547,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L62-3-夜班",
+    "line": "L62",
+    "start_min": 31361,
+    "finish_min": 31408,
+    "arrived_min": 31426,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L70-3-白班",
+    "line": "L70",
+    "start_min": 30278,
+    "finish_min": 30373,
+    "arrived_min": 30391,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L70-3-夜班",
+    "line": "L70",
+    "start_min": 31385,
+    "finish_min": 31451,
+    "arrived_min": 31469,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L71-3-白班",
+    "line": "L71",
+    "start_min": 30678,
+    "finish_min": 30844,
+    "arrived_min": 30862,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L71-3-夜班",
+    "line": "L71",
+    "start_min": 31224,
+    "finish_min": 31306,
+    "arrived_min": 31324,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L72-3-白班",
+    "line": "L72",
+    "start_min": 30408,
+    "finish_min": 30441,
+    "arrived_min": 30459,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L72-3-夜班",
+    "line": "L72",
+    "start_min": 31436,
+    "finish_min": 31592,
+    "arrived_min": 31610,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L00-4-白班",
+    "line": "L00",
+    "start_min": 40685,
+    "finish_min": 40815,
+    "arrived_min": 40833,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L00-4-夜班",
+    "line": "L00",
+    "start_min": 41329,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L01-4-白班",
+    "line": "L01",
+    "start_min": 40454,
+    "finish_min": 40611,
+    "arrived_min": 40629,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L01-4-夜班",
+    "line": "L01",
+    "start_min": 41250,
+    "finish_min": 41334,
+    "arrived_min": 41352,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L02-4-白班",
+    "line": "L02",
+    "start_min": 40484,
+    "finish_min": 40592,
+    "arrived_min": 40610,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L02-4-夜班",
+    "line": "L02",
+    "start_min": 41433,
+    "finish_min": 41466,
+    "arrived_min": 41484,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L10-4-白班",
+    "line": "L10",
+    "start_min": 40794,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L10-4-夜班",
+    "line": "L10",
+    "start_min": 41425,
+    "finish_min": 41579,
+    "arrived_min": 41597,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L11-4-白班",
+    "line": "L11",
+    "start_min": 40337,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L11-4-夜班",
+    "line": "L11",
+    "start_min": 41190,
+    "finish_min": 41324,
+    "arrived_min": 41342,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L12-4-白班",
+    "line": "L12",
+    "start_min": 40515,
+    "finish_min": 40594,
+    "arrived_min": 40612,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L12-4-夜班",
+    "line": "L12",
+    "start_min": 41048,
+    "finish_min": 41178,
+    "arrived_min": 41196,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L20-4-白班",
+    "line": "L20",
+    "start_min": 40615,
+    "finish_min": 40724,
+    "arrived_min": 40742,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L20-4-夜班",
+    "line": "L20",
+    "start_min": 41200,
+    "finish_min": 41248,
+    "arrived_min": 41266,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L21-4-白班",
+    "line": "L21",
+    "start_min": 40582,
+    "finish_min": 40683,
+    "arrived_min": 40701,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L21-4-夜班",
+    "line": "L21",
+    "start_min": 41412,
+    "finish_min": 41537,
+    "arrived_min": 41555,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L22-4-白班",
+    "line": "L22",
+    "start_min": 40575,
+    "finish_min": 40738,
+    "arrived_min": 40756,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L22-4-夜班",
+    "line": "L22",
+    "start_min": 41077,
+    "finish_min": 41212,
+    "arrived_min": 41230,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L30-4-白班",
+    "line": "L30",
+    "start_min": 40721,
+    "finish_min": 40821,
+    "arrived_min": 40839,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L30-4-夜班",
+    "line": "L30",
+    "start_min": 41123,
+    "finish_min": 41167,
+    "arrived_min": 41185,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L31-4-白班",
+    "line": "L31",
+    "start_min": 40452,
+    "finish_min": 40563,
+    "arrived_min": 40581,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L31-4-夜班",
+    "line": "L31",
+    "start_min": 41371,
+    "finish_min": 41479,
+    "arrived_min": 41497,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L32-4-白班",
+    "line": "L32",
+    "start_min": 40666,
+    "finish_min": 40725,
+    "arrived_min": 40743,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L32-4-夜班",
+    "line": "L32",
+    "start_min": 41420,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L40-4-白班",
+    "line": "L40",
+    "start_min": 40684,
+    "finish_min": 40711,
+    "arrived_min": 40729,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L40-4-夜班",
+    "line": "L40",
+    "start_min": 41335,
+    "finish_min": 41447,
+    "arrived_min": 41465,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L41-4-白班",
+    "line": "L41",
+    "start_min": 40375,
+    "finish_min": 40434,
+    "arrived_min": 40452,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L41-4-夜班",
+    "line": "L41",
+    "start_min": 41394,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L42-4-白班",
+    "line": "L42",
+    "start_min": 40518,
+    "finish_min": 40594,
+    "arrived_min": 40612,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L42-4-夜班",
+    "line": "L42",
+    "start_min": 41439,
+    "finish_min": 41572,
+    "arrived_min": 41590,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L50-4-白班",
+    "line": "L50",
+    "start_min": 40376,
+    "finish_min": 40440,
+    "arrived_min": 40458,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L50-4-夜班",
+    "line": "L50",
+    "start_min": 41109,
+    "finish_min": 41158,
+    "arrived_min": 41176,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L51-4-白班",
+    "line": "L51",
+    "start_min": 40389,
+    "finish_min": 40433,
+    "arrived_min": 40451,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L51-4-夜班",
+    "line": "L51",
+    "start_min": 41268,
+    "finish_min": 41368,
+    "arrived_min": 41386,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L52-4-白班",
+    "line": "L52",
+    "start_min": 40434,
+    "finish_min": 40591,
+    "arrived_min": 40609,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L52-4-夜班",
+    "line": "L52",
+    "start_min": 41154,
+    "finish_min": 41196,
+    "arrived_min": 41214,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L60-4-白班",
+    "line": "L60",
+    "start_min": 40371,
+    "finish_min": 40477,
+    "arrived_min": 40495,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L60-4-夜班",
+    "line": "L60",
+    "start_min": 41415,
+    "finish_min": 41547,
+    "arrived_min": 41565,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L61-4-白班",
+    "line": "L61",
+    "start_min": 40740,
+    "finish_min": 40789,
+    "arrived_min": 40807,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L61-4-夜班",
+    "line": "L61",
+    "start_min": 41124,
+    "finish_min": 41197,
+    "arrived_min": 41215,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L62-4-白班",
+    "line": "L62",
+    "start_min": 40572,
+    "finish_min": 40609,
+    "arrived_min": 40627,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L62-4-夜班",
+    "line": "L62",
+    "start_min": 41429,
+    "finish_min": 41592,
+    "arrived_min": 41610,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L70-4-白班",
+    "line": "L70",
+    "start_min": 40687,
+    "finish_min": 40760,
+    "arrived_min": 40778,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L70-4-夜班",
+    "line": "L70",
+    "start_min": 41258,
+    "finish_min": 41412,
+    "arrived_min": 41430,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L71-4-白班",
+    "line": "L71",
+    "start_min": 40792,
+    "finish_min": 40840,
+    "arrived_min": 40858,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L71-4-夜班",
+    "line": "L71",
+    "start_min": 41290,
+    "finish_min": 41351,
+    "arrived_min": 41369,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L72-4-白班",
+    "line": "L72",
+    "start_min": 40673,
+    "finish_min": 40734,
+    "arrived_min": 40752,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L72-4-夜班",
+    "line": "L72",
+    "start_min": 41206,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L00-5-白班",
+    "line": "L00",
+    "start_min": 50725,
+    "finish_min": 50791,
+    "arrived_min": 50809,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L00-5-夜班",
+    "line": "L00",
+    "start_min": 51580,
+    "finish_min": 51709,
+    "arrived_min": 51727,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L01-5-白班",
+    "line": "L01",
+    "start_min": 50410,
+    "finish_min": 50535,
+    "arrived_min": 50553,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L01-5-夜班",
+    "line": "L01",
+    "start_min": 51451,
+    "finish_min": 51601,
+    "arrived_min": 51619,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L02-5-白班",
+    "line": "L02",
+    "start_min": 50623,
+    "finish_min": 50659,
+    "arrived_min": 50677,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L02-5-夜班",
+    "line": "L02",
+    "start_min": 51235,
+    "finish_min": 51266,
+    "arrived_min": 51284,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L10-5-白班",
+    "line": "L10",
+    "start_min": 50842,
+    "finish_min": 50977,
+    "arrived_min": 50995,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L10-5-夜班",
+    "line": "L10",
+    "start_min": 51463,
+    "finish_min": 51629,
+    "arrived_min": 51647,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L11-5-白班",
+    "line": "L11",
+    "start_min": 50464,
+    "finish_min": 50537,
+    "arrived_min": 50555,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L11-5-夜班",
+    "line": "L11",
+    "start_min": 51501,
+    "finish_min": 51644,
+    "arrived_min": 51662,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L12-5-白班",
+    "line": "L12",
+    "start_min": 50698,
+    "finish_min": 50760,
+    "arrived_min": 50778,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L12-5-夜班",
+    "line": "L12",
+    "start_min": 51459,
+    "finish_min": 51570,
+    "arrived_min": 51588,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L20-5-白班",
+    "line": "L20",
+    "start_min": 50757,
+    "finish_min": 50879,
+    "arrived_min": 50897,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L20-5-夜班",
+    "line": "L20",
+    "start_min": 51152,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L21-5-白班",
+    "line": "L21",
+    "start_min": 50633,
+    "finish_min": 50730,
+    "arrived_min": 50748,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L21-5-夜班",
+    "line": "L21",
+    "start_min": 51518,
+    "finish_min": 51611,
+    "arrived_min": 51629,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L22-5-白班",
+    "line": "L22",
+    "start_min": 50779,
+    "finish_min": 50907,
+    "arrived_min": 50925,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L22-5-夜班",
+    "line": "L22",
+    "start_min": 51492,
+    "finish_min": 51558,
+    "arrived_min": 51576,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L30-5-白班",
+    "line": "L30",
+    "start_min": 50802,
+    "finish_min": 50945,
+    "arrived_min": 50963,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L30-5-夜班",
+    "line": "L30",
+    "start_min": 51134,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L31-5-白班",
+    "line": "L31",
+    "start_min": 50565,
+    "finish_min": 50657,
+    "arrived_min": 50675,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L31-5-夜班",
+    "line": "L31",
+    "start_min": 51311,
+    "finish_min": 51402,
+    "arrived_min": 51420,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L32-5-白班",
+    "line": "L32",
+    "start_min": 50462,
+    "finish_min": 50575,
+    "arrived_min": 50593,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L32-5-夜班",
+    "line": "L32",
+    "start_min": 51379,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L40-5-白班",
+    "line": "L40",
+    "start_min": 50825,
+    "finish_min": 50889,
+    "arrived_min": 50907,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L40-5-夜班",
+    "line": "L40",
+    "start_min": 51238,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L41-5-白班",
+    "line": "L41",
+    "start_min": 50540,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L41-5-夜班",
+    "line": "L41",
+    "start_min": 51527,
+    "finish_min": 51633,
+    "arrived_min": 51651,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L42-5-白班",
+    "line": "L42",
+    "start_min": 50803,
+    "finish_min": 50955,
+    "arrived_min": 50973,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L42-5-夜班",
+    "line": "L42",
+    "start_min": 51446,
+    "finish_min": 51566,
+    "arrived_min": 51584,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L50-5-白班",
+    "line": "L50",
+    "start_min": 50525,
+    "finish_min": 50573,
+    "arrived_min": 50591,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L50-5-夜班",
+    "line": "L50",
+    "start_min": 51460,
+    "finish_min": 51516,
+    "arrived_min": 51534,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L51-5-白班",
+    "line": "L51",
+    "start_min": 50857,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L51-5-夜班",
+    "line": "L51",
+    "start_min": 51339,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L52-5-白班",
+    "line": "L52",
+    "start_min": 50828,
+    "finish_min": 50876,
+    "arrived_min": 50894,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L52-5-夜班",
+    "line": "L52",
+    "start_min": 51333,
+    "finish_min": 51415,
+    "arrived_min": 51433,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L60-5-白班",
+    "line": "L60",
+    "start_min": 50851,
+    "finish_min": 50929,
+    "arrived_min": 50947,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L60-5-夜班",
+    "line": "L60",
+    "start_min": 51136,
+    "finish_min": 51216,
+    "arrived_min": 51234,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L61-5-白班",
+    "line": "L61",
+    "start_min": 50460,
+    "finish_min": 50593,
+    "arrived_min": 50611,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L61-5-夜班",
+    "line": "L61",
+    "start_min": 51504,
+    "finish_min": 51639,
+    "arrived_min": 51657,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L62-5-白班",
+    "line": "L62",
+    "start_min": 50552,
+    "finish_min": 50710,
+    "arrived_min": 50728,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L62-5-夜班",
+    "line": "L62",
+    "start_min": 51363,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L70-5-白班",
+    "line": "L70",
+    "start_min": 50665,
+    "finish_min": 50830,
+    "arrived_min": 50848,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L70-5-夜班",
+    "line": "L70",
+    "start_min": 51586,
+    "finish_min": 51708,
+    "arrived_min": 51726,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L71-5-白班",
+    "line": "L71",
+    "start_min": 50707,
+    "finish_min": 50856,
+    "arrived_min": 50874,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L71-5-夜班",
+    "line": "L71",
+    "start_min": 51507,
+    "finish_min": 51553,
+    "arrived_min": 51571,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L72-5-白班",
+    "line": "L72",
+    "start_min": 50622,
+    "finish_min": 50774,
+    "arrived_min": 50792,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L72-5-夜班",
+    "line": "L72",
+    "start_min": 51257,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L00-6-白班",
+    "line": "L00",
+    "start_min": 60759,
+    "finish_min": 60912,
+    "arrived_min": 60930,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L00-6-夜班",
+    "line": "L00",
+    "start_min": 61566,
+    "finish_min": 61648,
+    "arrived_min": 61666,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L01-6-白班",
+    "line": "L01",
+    "start_min": 60727,
+    "finish_min": 60739,
+    "arrived_min": 60757,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L01-6-夜班",
+    "line": "L01",
+    "start_min": 61550,
+    "finish_min": 61571,
+    "arrived_min": 61589,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L02-6-白班",
+    "line": "L02",
+    "start_min": 60934,
+    "finish_min": 61033,
+    "arrived_min": 61051,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L02-6-夜班",
+    "line": "L02",
+    "start_min": 61264,
+    "finish_min": 61283,
+    "arrived_min": 61301,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L10-6-白班",
+    "line": "L10",
+    "start_min": 60735,
+    "finish_min": 60813,
+    "arrived_min": 60831,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L10-6-夜班",
+    "line": "L10",
+    "start_min": 61343,
+    "finish_min": 61397,
+    "arrived_min": 61415,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L11-6-白班",
+    "line": "L11",
+    "start_min": 60654,
+    "finish_min": 60798,
+    "arrived_min": 60816,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L11-6-夜班",
+    "line": "L11",
+    "start_min": 61548,
+    "finish_min": 61691,
+    "arrived_min": 61709,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L12-6-白班",
+    "line": "L12",
+    "start_min": 60948,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L12-6-夜班",
+    "line": "L12",
+    "start_min": 61432,
+    "finish_min": 61486,
+    "arrived_min": 61504,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L20-6-白班",
+    "line": "L20",
+    "start_min": 60642,
+    "finish_min": 60782,
+    "arrived_min": 60800,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L20-6-夜班",
+    "line": "L20",
+    "start_min": 61501,
+    "finish_min": 61558,
+    "arrived_min": 61576,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L21-6-白班",
+    "line": "L21",
+    "start_min": 60724,
+    "finish_min": 60854,
+    "arrived_min": 60872,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L21-6-夜班",
+    "line": "L21",
+    "start_min": 61322,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L22-6-白班",
+    "line": "L22",
+    "start_min": 60920,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L22-6-夜班",
+    "line": "L22",
+    "start_min": 61333,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L30-6-白班",
+    "line": "L30",
+    "start_min": 60812,
+    "finish_min": 60938,
+    "arrived_min": 60956,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L30-6-夜班",
+    "line": "L30",
+    "start_min": 61278,
+    "finish_min": 61307,
+    "arrived_min": 61325,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L31-6-白班",
+    "line": "L31",
+    "start_min": 60801,
+    "finish_min": 60890,
+    "arrived_min": 60908,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L31-6-夜班",
+    "line": "L31",
+    "start_min": 61658,
+    "finish_min": 61743,
+    "arrived_min": 61761,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L32-6-白班",
+    "line": "L32",
+    "start_min": 60531,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L32-6-夜班",
+    "line": "L32",
+    "start_min": 61663,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L40-6-白班",
+    "line": "L40",
+    "start_min": 60730,
+    "finish_min": 60878,
+    "arrived_min": 60896,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L40-6-夜班",
+    "line": "L40",
+    "start_min": 61675,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L41-6-白班",
+    "line": "L41",
+    "start_min": 60876,
+    "finish_min": 61021,
+    "arrived_min": 61039,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L41-6-夜班",
+    "line": "L41",
+    "start_min": 61564,
+    "finish_min": 61651,
+    "arrived_min": 61669,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L42-6-白班",
+    "line": "L42",
+    "start_min": 60702,
+    "finish_min": 60724,
+    "arrived_min": 60742,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L42-6-夜班",
+    "line": "L42",
+    "start_min": 61587,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L50-6-白班",
+    "line": "L50",
+    "start_min": 60557,
+    "finish_min": 60612,
+    "arrived_min": 60630,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L50-6-夜班",
+    "line": "L50",
+    "start_min": 61265,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L51-6-白班",
+    "line": "L51",
+    "start_min": 60815,
+    "finish_min": 60906,
+    "arrived_min": 60924,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L51-6-夜班",
+    "line": "L51",
+    "start_min": 61661,
+    "finish_min": 61807,
+    "arrived_min": 61825,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L52-6-白班",
+    "line": "L52",
+    "start_min": 60694,
+    "finish_min": 60779,
+    "arrived_min": 60797,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L52-6-夜班",
+    "line": "L52",
+    "start_min": 61359,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L60-6-白班",
+    "line": "L60",
+    "start_min": 60621,
+    "finish_min": 60673,
+    "arrived_min": 60691,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L60-6-夜班",
+    "line": "L60",
+    "start_min": 61250,
+    "finish_min": 61271,
+    "arrived_min": 61289,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L61-6-白班",
+    "line": "L61",
+    "start_min": 60636,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L61-6-夜班",
+    "line": "L61",
+    "start_min": 61525,
+    "finish_min": 61676,
+    "arrived_min": 61694,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L62-6-白班",
+    "line": "L62",
+    "start_min": 60859,
+    "finish_min": 60917,
+    "arrived_min": 60935,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L62-6-夜班",
+    "line": "L62",
+    "start_min": 61320,
+    "finish_min": 61429,
+    "arrived_min": 61447,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L70-6-白班",
+    "line": "L70",
+    "start_min": 60712,
+    "finish_min": 60758,
+    "arrived_min": 60776,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L70-6-夜班",
+    "line": "L70",
+    "start_min": 61319,
+    "finish_min": 61460,
+    "arrived_min": 61478,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L71-6-白班",
+    "line": "L71",
+    "start_min": 60626,
+    "finish_min": 60760,
+    "arrived_min": 60778,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L71-6-夜班",
+    "line": "L71",
+    "start_min": 61637,
+    "finish_min": 61750,
+    "arrived_min": 61768,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L72-6-白班",
+    "line": "L72",
+    "start_min": 60756,
+    "finish_min": 60784,
+    "arrived_min": 60802,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L72-6-夜班",
+    "line": "L72",
+    "start_min": 61202,
+    "finish_min": 61236,
+    "arrived_min": 61254,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L00-7-白班",
+    "line": "L00",
+    "start_min": 70846,
+    "finish_min": 70862,
+    "arrived_min": 70880,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L00-7-夜班",
+    "line": "L00",
+    "start_min": 71459,
+    "finish_min": 71498,
+    "arrived_min": 71516,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L01-7-白班",
+    "line": "L01",
+    "start_min": 70874,
+    "finish_min": 70890,
+    "arrived_min": 70908,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L01-7-夜班",
+    "line": "L01",
+    "start_min": 71369,
+    "finish_min": 71481,
+    "arrived_min": 71499,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L02-7-白班",
+    "line": "L02",
+    "start_min": 70871,
+    "finish_min": 70984,
+    "arrived_min": 71002,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L02-7-夜班",
+    "line": "L02",
+    "start_min": 71462,
+    "finish_min": 71563,
+    "arrived_min": 71581,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L10-7-白班",
+    "line": "L10",
+    "start_min": 70775,
+    "finish_min": 70818,
+    "arrived_min": 70836,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L10-7-夜班",
+    "line": "L10",
+    "start_min": 71423,
+    "finish_min": 71553,
+    "arrived_min": 71571,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L11-7-白班",
+    "line": "L11",
+    "start_min": 70962,
+    "finish_min": 70988,
+    "arrived_min": 71006,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L11-7-夜班",
+    "line": "L11",
+    "start_min": 71401,
+    "finish_min": 71472,
+    "arrived_min": 71490,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L12-7-白班",
+    "line": "L12",
+    "start_min": 70883,
+    "finish_min": 70953,
+    "arrived_min": 70971,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L12-7-夜班",
+    "line": "L12",
+    "start_min": 71471,
+    "finish_min": 71609,
+    "arrived_min": 71627,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L20-7-白班",
+    "line": "L20",
+    "start_min": 70597,
+    "finish_min": 70609,
+    "arrived_min": 70627,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L20-7-夜班",
+    "line": "L20",
+    "start_min": 71492,
+    "finish_min": 71632,
+    "arrived_min": 71650,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L21-7-白班",
+    "line": "L21",
+    "start_min": 70885,
+    "finish_min": 70953,
+    "arrived_min": 70971,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L21-7-夜班",
+    "line": "L21",
+    "start_min": 71334,
+    "finish_min": 71385,
+    "arrived_min": 71403,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L22-7-白班",
+    "line": "L22",
+    "start_min": 70653,
+    "finish_min": 70737,
+    "arrived_min": 70755,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L22-7-夜班",
+    "line": "L22",
+    "start_min": 71451,
+    "finish_min": 71583,
+    "arrived_min": 71601,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L30-7-白班",
+    "line": "L30",
+    "start_min": 70577,
+    "finish_min": 70634,
+    "arrived_min": 70652,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L30-7-夜班",
+    "line": "L30",
+    "start_min": 71344,
+    "finish_min": 71397,
+    "arrived_min": 71415,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L31-7-白班",
+    "line": "L31",
+    "start_min": 70627,
+    "finish_min": 70696,
+    "arrived_min": 70714,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L31-7-夜班",
+    "line": "L31",
+    "start_min": 71454,
+    "finish_min": 71578,
+    "arrived_min": 71596,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L32-7-白班",
+    "line": "L32",
+    "start_min": 70920,
+    "finish_min": 70988,
+    "arrived_min": 71006,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L32-7-夜班",
+    "line": "L32",
+    "start_min": 71732,
+    "finish_min": 71795,
+    "arrived_min": 71813,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L40-7-白班",
+    "line": "L40",
+    "start_min": 70635,
+    "finish_min": 70718,
+    "arrived_min": 70736,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L40-7-夜班",
+    "line": "L40",
+    "start_min": 71513,
+    "finish_min": 71653,
+    "arrived_min": 71671,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L41-7-白班",
+    "line": "L41",
+    "start_min": 71013,
+    "finish_min": 71058,
+    "arrived_min": 71076,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L41-7-夜班",
+    "line": "L41",
+    "start_min": 71307,
+    "finish_min": 71437,
+    "arrived_min": 71455,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L42-7-白班",
+    "line": "L42",
+    "start_min": 70598,
+    "finish_min": 70650,
+    "arrived_min": 70668,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L42-7-夜班",
+    "line": "L42",
+    "start_min": 71504,
+    "finish_min": 71610,
+    "arrived_min": 71628,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L50-7-白班",
+    "line": "L50",
+    "start_min": 70779,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L50-7-夜班",
+    "line": "L50",
+    "start_min": 71758,
+    "finish_min": 71873,
+    "arrived_min": 71891,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L51-7-白班",
+    "line": "L51",
+    "start_min": 70592,
+    "finish_min": 70670,
+    "arrived_min": 70688,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L51-7-夜班",
+    "line": "L51",
+    "start_min": 71716,
+    "finish_min": 71859,
+    "arrived_min": 71877,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L52-7-白班",
+    "line": "L52",
+    "start_min": 70611,
+    "finish_min": 70700,
+    "arrived_min": 70718,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L52-7-夜班",
+    "line": "L52",
+    "start_min": 71307,
+    "finish_min": 71354,
+    "arrived_min": 71372,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L60-7-白班",
+    "line": "L60",
+    "start_min": 70568,
+    "finish_min": 70680,
+    "arrived_min": 70698,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L60-7-夜班",
+    "line": "L60",
+    "start_min": 71566,
+    "finish_min": 71635,
+    "arrived_min": 71653,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L61-7-白班",
+    "line": "L61",
+    "start_min": 70620,
+    "finish_min": 70676,
+    "arrived_min": 70694,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L61-7-夜班",
+    "line": "L61",
+    "start_min": 71280,
+    "finish_min": 71311,
+    "arrived_min": 71329,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L62-7-白班",
+    "line": "L62",
+    "start_min": 70959,
+    "finish_min": 70979,
+    "arrived_min": 70997,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L62-7-夜班",
+    "line": "L62",
+    "start_min": 71335,
+    "finish_min": 71456,
+    "arrived_min": 71474,
+    "duplicate_of": null,
+    "safety_stop": true,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L70-7-白班",
+    "line": "L70",
+    "start_min": 70690,
+    "finish_min": 70836,
+    "arrived_min": 70854,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L70-7-夜班",
+    "line": "L70",
+    "start_min": 71453,
+    "finish_min": 71592,
+    "arrived_min": 71610,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L71-7-白班",
+    "line": "L71",
+    "start_min": 70744,
+    "finish_min": 70889,
+    "arrived_min": 70907,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L71-7-夜班",
+    "line": "L71",
+    "start_min": 71526,
+    "finish_min": 71579,
+    "arrived_min": 71597,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "L72-7-白班",
+    "line": "L72",
+    "start_min": 70873,
+    "finish_min": 71028,
+    "arrived_min": 71046,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "白班"
+  },
+  {
+    "ticket": "L72-7-夜班",
+    "line": "L72",
+    "start_min": 71521,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": null,
+    "safety_stop": false,
+    "start_shift": "夜班"
+  },
+  {
+    "ticket": "DUP-1",
+    "line": "L11",
+    "start_min": 342,
+    "finish_min": null,
+    "arrived_min": null,
+    "duplicate_of": "L11-0-白班",
+    "safety_stop": false,
+    "start_shift": "白班"
+  }
+]

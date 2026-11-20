@@ -1,0 +1,29 @@
+[
+  {
+    "id": "A0",
+    "at_min": 81201,
+    "slot": "S1",
+    "gateway": "G0",
+    "units": 1,
+    "action": "旧批签核",
+    "reference": null
+  },
+  {
+    "id": "A1",
+    "at_min": 81335,
+    "slot": "S1",
+    "gateway": "G2",
+    "units": 1,
+    "action": "其他项目占用",
+    "reference": null
+  },
+  {
+    "id": "A2",
+    "at_min": 81805,
+    "slot": "S1",
+    "gateway": "G2",
+    "units": 1,
+    "action": "取消占用",
+    "reference": "A1"
+  }
+]
